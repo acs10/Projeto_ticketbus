@@ -18,4 +18,11 @@ Projeto de Um Software de Vendas de passagens de Ônibus (Documentação  do Sis
 
 4 Exclusões (itens fora do escopo do sistema):
     O aplicativo não irá imprimir as passagens, somente irá gerá-las virtualmente por meio do “QRCode”, o usuário não precisará pagar para usar o aplicativo.
+    
+5. Pré Visualização:
+
+<img width="498" alt="tecketbis" src="https://user-images.githubusercontent.com/41653617/163691285-30c06183-43b8-4df3-8679-f3abead2033b.png">
+
+Nota: Para mais detalhes consulte a documentação, toda ainterface foi projetada e descrita. Modulo de pagamento não especificado.
+
 

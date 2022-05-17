@@ -23,6 +23,6 @@ Projeto de Um Software de Vendas de passagens de Ônibus (Documentação  do Sis
 
 <img width="498" alt="tecketbis" src="https://user-images.githubusercontent.com/41653617/163691285-30c06183-43b8-4df3-8679-f3abead2033b.png">
 
-Nota: Para mais detalhes consulte a documentação, toda ainterface foi projetada e descrita. Modulo de pagamento não especificado.
+Nota: Para mais detalhes consulte a documentação, toda a interface foi projetada e descrita. Modulo de pagamento não especificado.
 
 
